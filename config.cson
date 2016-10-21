@@ -1,0 +1,29 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "b39d24a0-ae2a-5c1f-3f3c-ad2035252387"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  "terminal-plus":
+    core:
+      autoRunCommand: "pwd"
+      mapTerminalsTo: "Folder"
+      shell: "C:\\Program Files\\Git\\bin\\bash.exe"
+      shellArguments: "-l -i"
+  "tree-view": {}
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false

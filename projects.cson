@@ -1,0 +1,30 @@
+joinbiglobe:
+  title: "Join Biglobe"
+  paths: [
+    "C:\\Users\\hhonda\\Documents\\Works\\BIGLOBE\\personal\\join-biglobe"
+  ]
+"coffeeshop-wp-theme":
+  title: "Coffeeshop - WP-Theme"
+  paths: [
+    "C:\\Users\\hhonda\\Documents\\Works\\coffee_shop\\simple-vccw-env\\www\\wordpress\\wp-content\\themes\\coffeeshop"
+  ]
+"coffeshop-htdocs":
+  title: "CoffeShop - htdocs"
+  paths: [
+    "C:\\Users\\hhonda\\Documents\\Works\\coffee_shop\\simple-vccw-env\\htdocs"
+  ]
+"lte-static-page-html":
+  title: "lte-static-page-html"
+  paths: [
+    "C:\\Users\\hhonda\\Documents\\Works\\BIGLOBE\\personal\\lte-static-page\\mobile"
+  ]
+"htdocs_sim-gurashi":
+  title: "htdocs_sim-gurashi"
+  paths: [
+    "C:\\Users\\hhonda\\Documents\\Works\\BIGLOBE\\contents_marketing_site\\biglobe-sim-gurashi\\htdocs"
+  ]
+"wp-theme:しむ暮らし":
+  title: "wp-theme : しむ暮らし"
+  paths: [
+    "C:\\Users\\hhonda\\Documents\\Works\\BIGLOBE\\contents_marketing_site\\biglobe-sim-gurashi\\www\\wordpress\\wp-content\\themes\\sim-gurashi"
+  ]

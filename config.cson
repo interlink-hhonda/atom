@@ -1,10 +1,31 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "884d04ad-3694-4a7c-9164-74f527bb17b9"
+  "autocomplete-paths":
+    maxFileCount: 6000
   core:
-    telemetryConsent: "limited"
+    automaticallyUpdate: false
+    closeEmptyWindows: false
+    disabledPackages: [
+      "vim-mode"
+      "language-gfm"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/hhonda/Sites"
+    telemetryConsent: "no"
   editor:
-    fontSize: 15
+    fontSize: 13
   "exception-reporting":
-    userId: "b39d24a0-ae2a-5c1f-3f3c-ad2035252387"
+    userId: "f3127cfc-56ec-a412-037b-857946ec2fd9"
+  "git-plus":
+    general:
+      _analyticsUserId: "8b0274a1-7ddc-40f2-bcff-08703563425a"
+  "highlight-line":
+    enableSelectionBorder: true
+  linter: {}
+  "linter-ui-default":
+    showPanel: true
   minimap:
     plugins:
       bookmarks: true
@@ -17,13 +38,10 @@
       "minimap-autohideDecorationsZIndex": 0
       "split-diff": true
       "split-diffDecorationsZIndex": 0
-  "terminal-plus":
-    core:
-      autoRunCommand: "pwd"
-      mapTerminalsTo: "Folder"
-      shell: "C:\\Program Files\\Git\\bin\\bash.exe"
-      shellArguments: "-l -i"
-  "tree-view": {}
-  "vim-mode": {}
+  "sass-autocompile": {}
+  "split-diff":
+    ignoreWhitespace: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false

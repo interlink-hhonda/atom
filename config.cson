@@ -1,4 +1,7 @@
 "*":
+  "Remote-FTP":
+    connector:
+      autoUploadOnSave: "never"
   "atom-beautify":
     general:
       _analyticsUserId: "884d04ad-3694-4a7c-9164-74f527bb17b9"
@@ -24,8 +27,7 @@
   "highlight-line":
     enableSelectionBorder: true
   linter: {}
-  "linter-ui-default":
-    showPanel: true
+  "linter-ui-default": {}
   minimap:
     plugins:
       bookmarks: true
@@ -43,5 +45,7 @@
     ignoreWhitespace: true
   "tree-view":
     hideVcsIgnoredFiles: true
+  "vim-mode-plus":
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
   welcome:
     showOnStartup: false
